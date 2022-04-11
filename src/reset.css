@@ -1,0 +1,14 @@
+h1,
+h2 {
+	display: block;
+	font-size: 2rem;
+	margin-block-start: unset;
+	margin-block-end: unset;
+	margin-inline-start: unset;
+	margin-inline-end: unset;
+	font-weight: bold;
+}
+
+button {
+	all: unset;
+}

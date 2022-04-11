@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"name": "apple",
+		"price": 3
+	},
+	{
+		"id": 2,
+		"name": "banana",
+		"price": 5
+	},
+	{
+		"id": 3,
+		"name": "cherry",
+		"price": 7
+	},
+	{
+		"id": 4,
+		"name": "grape",
+		"price": 6
+	},
+	{
+		"id": 5,
+		"name": "orange",
+		"price": 2
+	},
+	{
+		"id": 6,
+		"name": "peach",
+		"price": 1
+	},
+	{
+		"id": 7,
+		"name": "pineapple",
+		"price": 10
+	},
+	{
+		"id": 8,
+		"name": "pomegranate",
+		"price": 4
+	},
+	{
+		"id": 9,
+		"name": "strawberry",
+		"price": 2
+	}
+]
